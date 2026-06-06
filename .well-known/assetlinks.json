@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lareon.wishyouwerehere",
+      "sha256_cert_fingerprints": [
+        "FC:7A:2E:F3:22:9D:9E:5F:4B:C0:97:DD:69:BC:5E:DE:BE:7F:A3:31:EA:EB:F8:3B:BE:92:07:10:18:15:76:25"
+      ]
+    }
+  }
+]
